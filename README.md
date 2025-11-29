@@ -52,3 +52,7 @@ La **ejecución automática** del comando iniciará el *script* que completará 
 - El script maneja automáticamente archivos con o sin columnas de latitud/longitud
 - Si no existen coordenadas, los valores aparecerán como vacíos
 - Todas las horas del día (0-23) se incluyen en el reporte por hora, incluso si no hay viajes
+
+## Video Demo
+
+### **https://youtu.be/4HRTbBrmJjE**
